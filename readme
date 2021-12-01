@@ -1,0 +1,1 @@
+you need to create the database "test_session_php" and the "table login_table"(id int auto_increment, username varchar(25), pass longtext, roles boolean, primaty_key(id))
